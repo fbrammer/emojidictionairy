@@ -44,10 +44,10 @@
             </objects>
             <point key="canvasLocation" x="788" y="86.806596701649184"/>
         </scene>
-        <!--View Controller-->
+        <!--Big View Controller-->
         <scene sceneID="sfb-MT-rYu">
             <objects>
-                <viewController id="bNA-A0-XO7" sceneMemberID="viewController">
+                <viewController id="bNA-A0-XO7" customClass="BigViewController" customModule="Emoji_Dictionairy" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="vXC-dv-Bss">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
